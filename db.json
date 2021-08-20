@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
       "id": 2,
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
       "author": "Hannah Gadsby"
@@ -19,11 +14,6 @@
       "id": 4,
       "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
       "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
     },
     {
       "id": 6,
@@ -54,18 +44,83 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "id": 12
+    },
+    {
+      "quote": "I like criticism. It makes you strong.",
+      "author": "Lebron James",
+      "id": 13
+    },
+    {
+      "quote": "The best way to predict a free future is to create it. ",
+      "author": "Abraham Lincoln",
+      "id": 14
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1629490230306,
+      "id": 8
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1629492136521,
+      "id": 9
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1629492138669,
+      "id": 10
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1629492143716,
+      "id": 11
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1629492147389,
+      "id": 12
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1629492148337,
+      "id": 13
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1629492160643,
+      "id": 14
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1629492161717,
+      "id": 15
     }
   ]
 }
